@@ -9,13 +9,6 @@ A responsive single-page application built to track and optimize interview prepa
 
 ---
 
-## 🔗 Live Application & Demo
-
-- **Live Deployment:** *[Deploy to Vercel / Live URL Placeholder]*
-- **1–2 Minute Video Demo:** *[Loom / YouTube / Google Drive Demo Link Placeholder]*
-
----
-
 ## 📸 Interface Previews
 
 ### Desktop Dashboard View (1280 × 800)
