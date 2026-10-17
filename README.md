@@ -83,8 +83,8 @@ A responsive single-page application built to track and optimize interview prepa
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/JahnviJha24/interview-practice-tracker.git
-cd interview-practice-tracker
+git clone https://github.com/JahnvviJha/practice-tracker.git
+cd practice-tracker
 
 # 2. Install dependencies
 npm install
